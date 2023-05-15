@@ -1,0 +1,556 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Vincent/OneDrive/Desktop/ECE174/MIPS_Processor/TOP
+vadder
+Z0 !s110 1684111980
+!i10b 1
+!s100 Xo8mgUQ8zeZ6E<96bzT473
+IVYI31haa?HJoAncPE4KSD3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL
+w1683676131
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/adder.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1684111980.000000
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+valu
+R0
+!i10b 1
+!s100 2TTo6NWnjOHl[M;zlgn[Y3
+I]_niMPdbeQ4K2^nk?QZ[A1
+R1
+R2
+w1684109335
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alu.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alu.v|
+!i113 1
+R5
+R6
+valu_control
+R0
+!i10b 1
+!s100 FO?zAoJWcG7[JYn[`;l;_3
+I>XJj9Cg?hmM?61ZFZl<am1
+R1
+R2
+w1684103738
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alu_control.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alu_control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alu_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alu_control.v|
+!i113 1
+R5
+R6
+valu_mux
+R0
+!i10b 1
+!s100 i`KmgY`N77o?fLW`ie5ck2
+I0nf`O8oZ=@RmHIMXlB`Me1
+R1
+R2
+Z7 w1681323344
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alumux.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alumux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alumux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/alumux.v|
+!i113 1
+R5
+R6
+vbubble_mux
+R0
+!i10b 1
+!s100 WCalZd?7ZZc6DUM6_Z8D_3
+IcI=H3QZ66]:z[F5U`b7i:2
+R1
+R2
+w1682120898
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/bubble_mux.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/bubble_mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/bubble_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/bubble_mux.v|
+!i113 1
+R5
+R6
+vcompr
+R0
+!i10b 1
+!s100 NI:659kWSOT^O8Ze46G`c3
+I?gHa7ePb1m<V9YYoVC>OQ2
+R1
+R2
+w1683917635
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/compr.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/compr.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/compr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/compr.v|
+!i113 1
+R5
+R6
+vdata_mem
+Z8 !s110 1684111981
+!i10b 1
+!s100 lTc72mWHBmTZGa5]O>T3J1
+IahO9G8R56W<lOEo7CjIf`0
+R1
+R2
+w1684108437
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/data_mem.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/data_mem.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/data_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/data_mem.v|
+!i113 1
+R5
+R6
+vex_mem_reg
+R8
+!i10b 1
+!s100 ARziD4C_;kn5`fA<;hG3z3
+If?eFUE[9PbdUKWnND<AAG3
+R1
+R2
+w1684099041
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/ex_mem_reg.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/ex_mem_reg.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1684111981.000000
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/ex_mem_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/ex_mem_reg.v|
+!i113 1
+R5
+R6
+vforward_unit
+R8
+!i10b 1
+!s100 7[09`d`z:PF]eP<4WCmZS3
+I`lPi?beYlAcUN^k?g3Gb]3
+R1
+R2
+w1679339435
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/forward_unit.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/forward_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/forward_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/forward_unit.v|
+!i113 1
+R5
+R6
+vfrwd_a
+R8
+!i10b 1
+!s100 3nPU`g7AAQa65Yh8[ON5^2
+IdaIRIEfcdCJ28Ql3^:FSR1
+R1
+R2
+w1682719296
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/frwd_a.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/frwd_a.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/frwd_a.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/frwd_a.v|
+!i113 1
+R5
+R6
+vfrwd_b
+R8
+!i10b 1
+!s100 8keMo`jO_A@f_LH<]QIc43
+I@2E`MEkLYWeNXE]4hhz>22
+R1
+R2
+R7
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/frwd_b.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/frwd_b.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/frwd_b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/frwd_b.v|
+!i113 1
+R5
+R6
+vhazard
+R8
+!i10b 1
+!s100 elzVakUBh<z9VoYSV7ge>3
+IPleFRjKD<Xm^4FR>hS3L<3
+R1
+R2
+w1683917289
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/hazard.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/hazard.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/hazard.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/hazard.v|
+!i113 1
+R5
+R6
+videx
+R8
+!i10b 1
+!s100 Y0__cn[k4U9gLI26Ph4Ie0
+I[D=jO]ZWilRYX5IK0>@CX2
+R1
+R2
+w1684097665
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/idex.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/idex.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/idex.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/idex.v|
+!i113 1
+R5
+R6
+vifid
+R8
+!i10b 1
+!s100 LD_ljM65`IG`1@IOe:VlU2
+IY:k=2iEi2B3GZi;BD7hnB1
+R1
+R2
+w1684096942
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/ifid.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/ifid.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/ifid.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/ifid.v|
+!i113 1
+R5
+R6
+vinstr_addr
+R8
+!i10b 1
+!s100 CkOBW]5ioej_KP<VX6n=H2
+IbKck=ocMzV5L=DZ3^8oDN1
+R1
+R2
+R7
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/instr_adder.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/instr_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/instr_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/instr_adder.v|
+!i113 1
+R5
+R6
+vinstr_mem
+R8
+!i10b 1
+!s100 =^BLe1a3goo6^H:]Y1f^Q2
+I][b5no[Ubdal^2Kfza;YW1
+R1
+R2
+w1684106511
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/instr_mem.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/instr_mem.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/instr_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/instr_mem.v|
+!i113 1
+R5
+R6
+vmain_controller
+R8
+!i10b 1
+!s100 ]kXn7;Z_eD=`9<>^iXa0>2
+I^>nG3hBR9M@RWeM[n1_>c2
+R1
+R2
+w1684095083
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/main_controller.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/main_controller.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/main_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/main_controller.v|
+!i113 1
+R5
+R6
+vmem_wb_reg
+R8
+!i10b 1
+!s100 aN96F35@Ym4OiPmdhPczm3
+IQiaWJ7IKK29M]]M;>I1cc1
+R1
+R2
+w1682725931
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/mem_wb_reg.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/mem_wb_reg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/mem_wb_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/mem_wb_reg.v|
+!i113 1
+R5
+R6
+vpc_mux
+R8
+!i10b 1
+!s100 zRZbmN9z=O=oCdQbf4Y2;0
+IH1c3<Z[3n3EMT_RgSB8n51
+R1
+R2
+w1683682794
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/pcmux.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/pcmux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/pcmux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/pcmux.v|
+!i113 1
+R5
+R6
+vpcplus4
+R8
+!i10b 1
+!s100 7OLJVSO27O?^n5KhVkKdi1
+I]E<Zh4U[AcLJen67FNLfK0
+R1
+R2
+w1684107588
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/pcplus.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/pcplus.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/pcplus.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/pcplus.v|
+!i113 1
+R5
+R6
+vprocessor_top
+R8
+!i10b 1
+!s100 c;fM6:@n6nHb22cCcBKBc1
+I<Zlgi1V1c:eNngQA>U3Ja2
+R1
+R2
+w1684107607
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/processor_top.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/processor_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/processor_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/processor_top.v|
+!i113 1
+R5
+R6
+vprocessor_top_tb
+R8
+!i10b 1
+!s100 01KjF[ACCz?f^zg7;:>FF0
+IEnPHSZLo96@oib<nk_HhE0
+R1
+R2
+w1684109614
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/processor_top_tb.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/processor_top_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/processor_top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/processor_top_tb.v|
+!i113 1
+R5
+R6
+vreg_mux
+Z10 !s110 1684111982
+!i10b 1
+!s100 zWE3J_PoCYC8VIQJ<aJBG1
+IT07dL`?9S2n70ejTTXTDL2
+R1
+R2
+w1682986144
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/regmux.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/regmux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/regmux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/regmux.v|
+!i113 1
+R5
+R6
+vregister
+R8
+!i10b 1
+!s100 Zi4?AK0LQ4CbN6ecRAk6=1
+I1bRegR]N1Y`LSZFm]3l923
+R1
+R2
+w1684108893
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/register.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/register.v|
+!i113 1
+R5
+R6
+vsign_extend
+R10
+!i10b 1
+!s100 OVF:=`aLXl>4Wn_bg:?V@1
+IM5zMD_z>Y;S>LA448;X:32
+R1
+R2
+w1682119582
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/sign_extend.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/sign_extend.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1684111982.000000
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/sign_extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/sign_extend.v|
+!i113 1
+R5
+R6
+vwritereg_mux
+R0
+!i10b 1
+!s100 M3mYYh6;06T@eEC9`nKY:2
+I=<TSN^Tz3;SdHMlMk1Tgo0
+R1
+R2
+w1681865746
+8C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/writeregmux.v
+FC:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/writeregmux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/writeregmux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Vincent/OneDrive/Desktop/MIPS_PROCESSOR_FINAL/writeregmux.v|
+!i113 1
+R5
+R6
